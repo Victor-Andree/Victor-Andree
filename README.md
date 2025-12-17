@@ -39,6 +39,10 @@
 | **Sistema de gestión de incidencias** | 📌 Reporte y administración de incidencias para municipalidades |
 | **Api de licencias** | 🔑 Emisión, validación y gestión de licencias digitales |
 | **API Veterinaria** | 🐾 Gestión de citas, pacientes y control médico de mascotas |
+| **Tu Voto Manda** | 🗳️ Pagina dedicada mostrar informaacion de las selecciones, desarrollada en la Hackaton Comercio 7va Edicion |
+| **Landing Page ACUAVIVI** | 🐟 Pagina informativa que tiene el catalogo del negocio  |
+
+
 
 
 
